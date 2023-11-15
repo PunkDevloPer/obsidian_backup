@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "06603c82740cd9d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "af042098feaa98ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06fcd54531b58616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo web/Bootstrap  5/01-Temario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77803bb9e5a2c59f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30beb92f1aecce20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d618399eb3df8182",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c78590618143d14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a931da31aeb41f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "d6f12f27472886ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb55946390ab7ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aaf1c547f00d37c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desarrollo web/Bootstrap  5/01-Temario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "281e3add7bd174c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desarrollo web/Bootstrap  5/01-Temario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e06864717f73d200",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14b5ad904431b6af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desarrollo web/Bootstrap  5/01-Temario.md"
+              }
+            }
+          },
+          {
+            "id": "42fbbee82d521222",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false
+    }
+  },
+  "active": "06fcd54531b58616",
+  "lastOpenFiles": [
+    "Desarrollo web/Bootstrap  5/bootstrap 5.md",
+    "Desarrollo web/Bootstrap  5/01-Temario.md",
+    "Docker/Windows/01-Temario.md",
+    "Docker/Linux/01-Temario.md",
+    "Git/4-ramas remotas.md",
+    "Git/5-herramientas graficas.md",
+    "Git/3-ramas locales e historial.md",
+    "Git/1-Temario.md",
+    "Git/conceptos basicos/Repositorios locales y remotos.md",
+    "Git/Primeros pasos.md",
+    "hacking/Herramientas/1-Nmap.md",
+    "Plataformas hacking",
+    "hacking/vulnerabilidades/3-Protocolo SSH.md",
+    "hacking/1-Temario.md",
+    "Desarrollo web/JavaScript/01-Temario.md",
+    "Desarrollo web/CSS/01-Temario.md",
+    "Desarrollo web/HTML5/01-Temario.md",
+    "AWS Cloud practitioner/4-Modelos de Despliegue y Servicios de AWS.md",
+    "AWS Cloud practitioner/5-Arquitectura de Aplicaciones en la Nube.md",
+    "AWS Cloud practitioner/6-Precios y Facturación de AWS.md",
+    "AWS Cloud practitioner/7-AWS Global Infrastructure.md",
+    "AWS Cloud practitioner/8- Casos de Uso y Escenarios Prácticos.md",
+    "AWS Cloud practitioner/9-Seguridad y Cumplimiento en AWS.md",
+    "Desarrollo web/JavaScript",
+    "Desarrollo web/Javascript.md",
+    "php-laravel/9.3. Monitoreo y gestión de errores..md",
+    "Plataformas hacking/hackmyvm/Gif/4-Escalada de privilegios.md",
+    "Plataformas hacking/hackmyvm/Gif/3-Pwned_server.md",
+    "Git/Ramificacion y fusion",
+    "Python/1-Introducción y características básicas/Módulo 1 Tipos de Datos y Variables",
+    "Git/conceptos basicos",
+    "Git/Comandos basicos",
+    "Networking",
+    "Sin título 1",
+    "Linux/problemas en linux",
+    "Linux/Shell Scripting/bash_scripting linux",
+    "Git/Sin título.canvas",
+    "Imagenes/Pasted image 20231003164656.png",
+    "Imagenes/Pasted image 20231003164427.png",
+    "Imagenes/Pasted image 20231003164347.png",
+    "Imagenes/Pasted image 20231003164256.png",
+    "Imagenes/Pasted image 20231003155230.png",
+    "Imagenes/Pasted image 20231003154907.png",
+    "Imagenes/Pasted image 20231003154711.png",
+    "Imagenes/Pasted image 20231003154547.png",
+    "Imagenes/Pasted image 20231003153120.png",
+    "Imagenes/Pasted image 20231003150405.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabBattleNet",
+      "FabCodiepie",
+      "FabPlaystation",
+      "FabRedhat",
+      "FabMastodon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconsBackgroundCheckEnabled": true
+  },
+  "Git": "FabGithub",
+  "Docker": "FabDocker",
+  "Desarrollo web": "FabHtml5",
+  "hacking": "FabDebian",
+  "Lenguaje C": "FabCuttlefish",
+  "Linux": "FabLinux",
+  "Imagenes": "FabInstagram",
+  "php-laravel": "FabLaravel",
+  "Python": "FabPython",
+  "AWS Cloud practitioner": {
+    "iconName": "FabAws",
+    "inheritanceIcon": "FabAws"
+  },
+  "AWS Cloud practitioner/Servicios": "FabServicestack",
+  "AWS Cloud practitioner/Modelos de servicio": "FabMastodon",
+  "Linux/Shell Scripting": "FabRedhat",
+  "Networking": "FabBattleNet",
+  "Plataformas hacking/Tryhackme": "FabCodepen",
+  "Plataformas hacking/Vulnhub": "FabCodepen",
+  "Plataformas hacking/hackmyvm": "FabCodepen",
+  "Plataformas hacking/Hacthebox": "FabCodepen",
+  "Plataformas hacking": "FabRedhat"
+}
