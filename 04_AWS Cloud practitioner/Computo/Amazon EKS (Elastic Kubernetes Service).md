@@ -1,0 +1,1 @@
+Amazon EKS es un servicio completamente administrado que simplifica la implementación, la administración y la escalabilidad de clústeres de Kubernetes en la nube de AWS. Ofrece una experiencia segura y de alta disponibilidad para ejecutar aplicaciones en contenedores.

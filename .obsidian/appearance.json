@@ -2,5 +2,6 @@
   "accentColor": "#07a0f2",
   "baseFontSize": 19,
   "cssTheme": "Minimal",
-  "translucency": true
+  "translucency": false,
+  "theme": "obsidian"
 }

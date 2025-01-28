@@ -2,7 +2,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "imagenes_generales",
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
@@ -10,5 +10,6 @@
   },
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current"
 }

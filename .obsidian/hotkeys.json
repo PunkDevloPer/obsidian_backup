@@ -1,1 +1,10 @@
-{}
+{
+  "nifty-links:create-nifty-links": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "End"
+    }
+  ]
+}

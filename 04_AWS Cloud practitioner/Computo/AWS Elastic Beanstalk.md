@@ -1,0 +1,1 @@
+AWS Elastic Beanstalk es un servicio que facilita la implementación y administración de aplicaciones web en la nube. Automatiza el aprovisionamiento de recursos, como instancias EC2, balanceadores de carga y grupos de autoscaling, permitiendo a los desarrolladores enfocarse en el código de la aplicación.

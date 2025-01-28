@@ -1,0 +1,1 @@
+Amazon ECS es un servicio altamente escalable para ejecutar contenedores Docker. Permite a los usuarios ejecutar fácilmente aplicaciones en contenedores sin tener que preocuparse por la gestión de la infraestructura subyacente.

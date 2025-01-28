@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af042098feaa98ab",
+        "id": "ed03da4c1896521f",
         "type": "tabs",
         "children": [
           {
-            "id": "06fcd54531b58616",
+            "id": "23d88e6db3c91643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo web/Bootstrap  5/01-Temario.md",
+                "file": "01_Git/Comandos basicos/Confirmar cambios en el repositorio.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Confirmar cambios en el repositorio"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -47,7 +51,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
@@ -62,14 +68,16 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 391.5
   },
   "right": {
     "id": "d6f12f27472886ee",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo web/Bootstrap  5/01-Temario.md",
+                "file": "08_Python/Kivy_framework/Primeros pasos en kivy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Primeros pasos en kivy"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo web/Bootstrap  5/01-Temario.md",
+                "file": "08_Python/Kivy_framework/Primeros pasos en kivy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Primeros pasos en kivy"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo web/Bootstrap  5/01-Temario.md"
-              }
+                "file": "08_Python/Kivy_framework/Primeros pasos en kivy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Primeros pasos en kivy"
             }
           },
           {
@@ -135,8 +151,12 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ]
@@ -150,61 +170,62 @@
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "nifty-links:Nifty Links": false
     }
   },
-  "active": "06fcd54531b58616",
+  "active": "23d88e6db3c91643",
   "lastOpenFiles": [
-    "Desarrollo web/Bootstrap  5/bootstrap 5.md",
-    "Desarrollo web/Bootstrap  5/01-Temario.md",
-    "Docker/Windows/01-Temario.md",
-    "Docker/Linux/01-Temario.md",
-    "Git/4-ramas remotas.md",
-    "Git/5-herramientas graficas.md",
-    "Git/3-ramas locales e historial.md",
-    "Git/1-Temario.md",
-    "Git/conceptos basicos/Repositorios locales y remotos.md",
-    "Git/Primeros pasos.md",
-    "hacking/Herramientas/1-Nmap.md",
-    "Plataformas hacking",
-    "hacking/vulnerabilidades/3-Protocolo SSH.md",
-    "hacking/1-Temario.md",
-    "Desarrollo web/JavaScript/01-Temario.md",
-    "Desarrollo web/CSS/01-Temario.md",
-    "Desarrollo web/HTML5/01-Temario.md",
-    "AWS Cloud practitioner/4-Modelos de Despliegue y Servicios de AWS.md",
-    "AWS Cloud practitioner/5-Arquitectura de Aplicaciones en la Nube.md",
-    "AWS Cloud practitioner/6-Precios y Facturación de AWS.md",
-    "AWS Cloud practitioner/7-AWS Global Infrastructure.md",
-    "AWS Cloud practitioner/8- Casos de Uso y Escenarios Prácticos.md",
-    "AWS Cloud practitioner/9-Seguridad y Cumplimiento en AWS.md",
-    "Desarrollo web/JavaScript",
-    "Desarrollo web/Javascript.md",
-    "php-laravel/9.3. Monitoreo y gestión de errores..md",
-    "Plataformas hacking/hackmyvm/Gif/4-Escalada de privilegios.md",
-    "Plataformas hacking/hackmyvm/Gif/3-Pwned_server.md",
-    "Git/Ramificacion y fusion",
-    "Python/1-Introducción y características básicas/Módulo 1 Tipos de Datos y Variables",
-    "Git/conceptos basicos",
-    "Git/Comandos basicos",
-    "Networking",
-    "Sin título 1",
-    "Linux/problemas en linux",
-    "Linux/Shell Scripting/bash_scripting linux",
+    "01_Git/4-ramas remotas.md",
+    "01_Git/Comandos basicos/Obtener y fusionar cambios desde un repositorio remoto.md",
+    "01_Git/Comandos basicos/Enviar cambios a un repositorio remoto.md",
+    "02_Docker/Módulo 1 Introducción a Docker en Linux/1.3. Instalación y requisitos básicos en distribuciones Linux..md",
+    "02_Docker/Módulo 2 Conceptos Básicos de Docker/2.3. Docker Hub y repositorios de imágenes..md",
+    "02_Docker/Módulo 2 Conceptos Básicos de Docker/2.2. Contenedores Docker creación ejecución y parada.md",
+    "02_Docker/Módulo 2 Conceptos Básicos de Docker/2.1. Imágenes de Docker construcción pull y push.md",
+    "02_Docker/Módulo 1 Introducción a Docker en Linux/1.2. Historia y evolución de Docker en entornos Linux..md",
+    "02_Docker/Módulo 1 Introducción a Docker en Linux/1.1. Fundamentos de contenedores y virtualización ligera..md",
+    "08_Python/Python_Basico/Módulo 3 Estructuras de Control/3.2. Bucles (for, while)..md",
+    "08_Python/Python_Basico/Módulo 3 Estructuras de Control/3.3. Instrucciones de control de flujo..md",
+    "08_Python/Python_Basico/Módulo 3 Estructuras de Control/3.1. Estructuras de selección (if-else, elif)..md",
+    "08_Python/Python_Basico/Módulo 1 Tipos de Datos y Variables/1.1. Variables y constantes en Python..md",
+    "08_Python/Python_avanzado/Módulo 1 Programación Funcional y Decoradores/1.2. Uso de decoradores para extender funcionalidades..md",
+    "08_Python/Python_avanzado/Módulo 1 Programación Funcional y Decoradores/1.1. Funciones de orden superior y lambdas..md",
+    "08_Python/Python_Basico/Módulo 7 Programación Orientada a Objetos (OOP)/7.1. Clases y objetos en Python..md",
+    "08_Python/Python_Basico/Módulo 1 Tipos de Datos y Variables/1.3. Operaciones y conversiones entre tipos..md",
+    "08_Python/Flask/Modulo 1 Introducción a Flask/1.4.Configuración inicial de un proyecto.md",
+    "08_Python/Flask/Modulo 1 Introducción a Flask/1.3. Instalación de Flask.md",
+    "08_Python/Flask/Modulo 1 Introducción a Flask/1.2.Características principales de Flask.md",
+    "08_Python/Flask/Modulo 1 Introducción a Flask/1.1. Qué es Flask.md",
+    "01_Git/1-Temario.md",
+    "01_Git/conceptos basicos/Repositorios locales y remotos.md",
+    "01_Git/conceptos basicos/Commits, ramas y etiquetas.md",
+    "01_Git/conceptos basicos/Área de preparación (staging area).md",
+    "01_Git/Primeros pasos.md",
+    "08_Python/Kivy_framework",
+    "10_hacking/servicios",
+    "10_hacking/Herramientas/Sin nombre",
+    "10_hacking/Sobre el Hacking",
+    "10_hacking/Herramientas/1.3 MetaExploit",
+    "10_hacking/Herramientas/1.6 Wiresshark",
+    "10_hacking/Herramientas/1.1 Burpsuite",
+    "10_hacking/Herramientas/1.2 Gobuster",
+    "10_hacking/Herramientas/1.5 Sql_inyection",
+    "10_hacking/Herramientas/1.4 Nmap",
+    "Pasted image 20240624173520.png",
+    "14_Imagenes/lazyadmin/Pasted image 20230911173807.png",
+    "14_Imagenes/Other/Pasted image 20230912190033.png",
+    "14_Imagenes/Other/Pasted image 20230911173807.png",
+    "14_Imagenes/Other/Pasted image 20230907211439.png",
+    "14_Imagenes/Other/Pasted image 20230906164822.png",
+    "14_Imagenes/Other/Pasted image 20230906162901.png",
+    "14_Imagenes/Other/Pasted image 20230906162611.png",
+    "14_Imagenes/Other/Pasted image 20230904155913.png",
+    "14_Imagenes/Other/Pasted image 20230830160514.png",
     "Git/Sin título.canvas",
-    "Imagenes/Pasted image 20231003164656.png",
-    "Imagenes/Pasted image 20231003164427.png",
-    "Imagenes/Pasted image 20231003164347.png",
-    "Imagenes/Pasted image 20231003164256.png",
-    "Imagenes/Pasted image 20231003155230.png",
-    "Imagenes/Pasted image 20231003154907.png",
-    "Imagenes/Pasted image 20231003154711.png",
-    "Imagenes/Pasted image 20231003154547.png",
-    "Imagenes/Pasted image 20231003153120.png",
-    "Imagenes/Pasted image 20231003150405.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

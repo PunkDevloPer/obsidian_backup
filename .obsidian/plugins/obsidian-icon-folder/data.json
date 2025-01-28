@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabAudible",
+      "FabDailymotion",
       "FabBattleNet",
       "FabCodiepie",
-      "FabPlaystation",
-      "FabRedhat",
-      "FabMastodon"
+      "FabPlaystation"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,26 +24,29 @@
     "iconInTitleEnabled": true,
     "iconsBackgroundCheckEnabled": true
   },
-  "Git": "FabGithub",
-  "Docker": "FabDocker",
-  "Desarrollo web": "FabHtml5",
-  "hacking": "FabDebian",
-  "Lenguaje C": "FabCuttlefish",
-  "Linux": "FabLinux",
-  "Imagenes": "FabInstagram",
-  "php-laravel": "FabLaravel",
-  "Python": "FabPython",
-  "AWS Cloud practitioner": {
+  "01_Git": "FabGithub",
+  "03_Desarrollo web": "FabHtml5",
+  "04_AWS Cloud practitioner": {
     "iconName": "FabAws",
     "inheritanceIcon": "FabAws"
   },
-  "AWS Cloud practitioner/Servicios": "FabServicestack",
-  "AWS Cloud practitioner/Modelos de servicio": "FabMastodon",
-  "Linux/Shell Scripting": "FabRedhat",
-  "Networking": "FabBattleNet",
-  "Plataformas hacking/Tryhackme": "FabCodepen",
-  "Plataformas hacking/Vulnhub": "FabCodepen",
-  "Plataformas hacking/hackmyvm": "FabCodepen",
-  "Plataformas hacking/Hacthebox": "FabCodepen",
-  "Plataformas hacking": "FabRedhat"
+  "04_AWS Cloud practitioner/Modelos de servicio": "FabMastodon",
+  "04_AWS Cloud practitioner/Servicios": "FabServicestack",
+  "04_AWS Cloud practitioner/Computo": "FabPlaystation",
+  "02_Docker": "FabDocker",
+  "05_Linux": "FabLinux",
+  "05_Linux/Shell Scripting": "FabRedhat",
+  "06_ C y C++": "FabCuttlefish",
+  "07_php-laravel": "FabLaravel",
+  "08_Python": "FabPython",
+  "09_SQL": "FabDailymotion",
+  "10_hacking": "FabDebian",
+  "14_Imagenes": "FabInstagram",
+  "11_Plataformas hacking": "FabRedhat",
+  "11_Plataformas hacking/hackmyvm": "FabCodepen",
+  "11_Plataformas hacking/Hacthebox": "FabCodepen",
+  "11_Plataformas hacking/Tryhackme": "FabCodepen",
+  "11_Plataformas hacking/Vulnhub": "FabCodepen",
+  "12_Networking": "FabBattleNet",
+  "13_Matematicas": "FabAudible"
 }
